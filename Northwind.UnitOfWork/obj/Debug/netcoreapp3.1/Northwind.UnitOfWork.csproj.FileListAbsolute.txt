@@ -1,0 +1,14 @@
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.UnitOfWork.deps.json
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.UnitOfWork.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.UnitOfWork.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.Models.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\NorthWind.Repositories.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\NorthWind.Repositories.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\Northwind.UnitOfWork\bin\Debug\netcoreapp3.1\Northwind.Models.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.AssemblyInfo.cs
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.csproj.CopyComplete
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\Northwind.UnitOfWork\obj\Debug\netcoreapp3.1\Northwind.UnitOfWork.pdb

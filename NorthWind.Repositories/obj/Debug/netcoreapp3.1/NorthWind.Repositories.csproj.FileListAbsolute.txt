@@ -1,0 +1,12 @@
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\NorthWind.Repositories\bin\Debug\netcoreapp3.1\NorthWind.Repositories.deps.json
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\NorthWind.Repositories\bin\Debug\netcoreapp3.1\NorthWind.Repositories.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\NorthWind.Repositories\bin\Debug\netcoreapp3.1\NorthWind.Repositories.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\NorthWind.Repositories\bin\Debug\netcoreapp3.1\Northwind.Models.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\NorthWind.Repositories\bin\Debug\netcoreapp3.1\Northwind.Models.pdb
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\NorthWind.Repositories\obj\Debug\netcoreapp3.1\NorthWind.Repositories.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\NorthWind.Repositories\obj\Debug\netcoreapp3.1\NorthWind.Repositories.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\NorthWind.Repositories\obj\Debug\netcoreapp3.1\NorthWind.Repositories.AssemblyInfo.cs
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\NorthWind.Repositories\obj\Debug\netcoreapp3.1\NorthWind.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\NorthWind.Repositories\obj\Debug\netcoreapp3.1\NorthWind.Repositories.csproj.CopyComplete
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\NorthWind.Repositories\obj\Debug\netcoreapp3.1\NorthWind.Repositories.dll
+C:\Users\Emanuel\Documents\Proyectos Emanuel Esquivel\Udemy\NorthwindSolution\NorthWind.Repositories\obj\Debug\netcoreapp3.1\NorthWind.Repositories.pdb
